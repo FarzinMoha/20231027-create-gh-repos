@@ -1,0 +1,6 @@
+
+1- git init
+2- git add .
+3- git commit -m "initial commit"
+4- gh auth login
+gh repo create [my-newrepo] --public --source=. --remote=upstream --push
